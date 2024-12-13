@@ -1,0 +1,38 @@
+[
+    {
+        "question": "What is the capital of Japan?",
+        "options": ["Stockholm", "Madrid", "Tokyo"],
+        "answer": "Tokyo"
+    },
+    {
+        "question": "Which is the largest planet in the solar system?",
+        "options": ["Mars", "Jupiter", "Saturn"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the capital of Saudi Arabia?",
+        "options": ["Jeddah", "Riyadh", "Mecca"],
+        "answer": "Riyadh"
+    },
+    {
+        "question": "Who is the author of the novel (Les Misérables)?",
+        "options": ["Victor Hugo", "Charles Dickens", "Leo Tolstoy"],
+        "answer": "Victor Hugo"
+    },
+    {
+        "question": "Which chemical element has the symbol (O)?",
+        "options": ["Hydrogen", "Oxygen", "Carbon"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "How many colors does a rainbow have?",
+        "options":[5,6,7],
+        "answer":7
+    },
+    {
+        "question": "Who was the first person to land on the moon?",
+        "options": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin"],
+        "answer": "Neil Armstrong"
+    }
+]
+

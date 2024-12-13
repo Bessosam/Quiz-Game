@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="quiz-container">
+    <h1>Quiz Game</h1>
+    <div id="question-container">
+      <p id="timer">
+        <img src="images/timer.gif" alt="timer" id="timer-icon">
+        Time left: <span id="time-left">10s</span>
+      </p>
+      <p id="question"></p>
+      <div id="options"></div>
+      <p id="feedback"></p>
+      
+    </div>
+    <button id="next-button" disabled>Next</button>
+    <button id="replay-button" style="display: none;">Replay Quiz</button>
+    <p id="score"></p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
